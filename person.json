@@ -1,0 +1,11 @@
+{
+    "id":"1",
+    "name":"Akbar",
+    "age":26,
+    "Hobbies":["Gaming", "Reading"],
+    "Address": [{
+        "Country":"Kota Bima",
+        "Street":"jl. Yos Sudarso",
+        "PostalCode": 112233
+    }]
+}
