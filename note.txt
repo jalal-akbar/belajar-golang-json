@@ -1,0 +1,3 @@
+https://pkg.go.dev/encoding/json
+https://www.json.org/json-en.html
+melakukan konversi data ke JSON (encode) atau sebaliknya (decode)
